@@ -3,7 +3,7 @@
 Custom tiling window manager and status bar setup for my Linux machine, built primarily with i3 and polybar. 
 :D
 
-> [Windows + Komorebi + Yasb (Non UW)](https://github.com/jhuynh226/Monochrome-Dots-WIN-UW)
+> [Windows + Komorebi + Yasb Monochrome Rice](https://github.com/jhuynh226/Monochrome-Dots-WIN-UW)
 
 ---
 
