@@ -17,4 +17,4 @@ Custom tiling window manager and status bar setup for my Linux machine, built pr
 - **[i3](https://github.com/i3/i3)** — A fast and easy-to-use status bar   
 - **[Fastfetch](https://github.com/fastfetch-cli/fastfetch)** — System information fetcher
 - **[Betterlockscreen](https://github.com/betterlockscreen/betterlockscreen)** — Sweet looking lockscreen for linux systems
-> And a ton of other packages used to manage my workflow
+> And a ton of other packages used to manage workflow (Most important being in i3 startup script)
